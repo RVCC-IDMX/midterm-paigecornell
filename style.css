@@ -1,0 +1,15 @@
+body {
+font-family:'Courier New', Courier, monospace;
+background-color:lightcoral;
+}
+
+#reviews {
+border: 4px solid;
+margin-top: 2rem;
+margin-bottom: 2rem;
+text-align: left;
+max-width: 100%;
+columns: 40rem;
+padding-top: 1rem;
+
+}
