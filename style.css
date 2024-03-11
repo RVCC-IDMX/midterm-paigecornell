@@ -11,5 +11,11 @@ text-align: left;
 max-width: 100%;
 columns: 40rem;
 padding-top: 1rem;
+border-style: dotted;
+}
 
+img {
+border: 8px solid;
+border-radius: 8px;
+border-style:solid;
 }
